@@ -6,9 +6,5 @@
  ----------------------------------------------------------------- 
 
 
-Hi there! Welcome to AWS Cloud9!
+These are codes for the various challenges I did in the Azubi Africa AWS re-Start program. They are specifically the python labs done in the AWS Cloud9 IDE.
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
