@@ -6,5 +6,7 @@
  ----------------------------------------------------------------- 
 
 
-These are codes for the various challenges I did in the Azubi Africa AWS re-Start program. They are specifically the python labs done in the AWS Cloud9 IDE.
+These are codes for the various challenges I did in the Azubi Africa AWS re-Start program. 
+They are specifically the python labs done in the AWS Cloud9 IDE.
+The labs server to enforce the understanding of python as a programming language and for task automation.
 
